@@ -1,14 +1,14 @@
 {
-  "name": "@msjb/azure-devops-mcp",
-  "version": "1.2.0",
+  "name": "@ms-jb/azure-devops-mcp",
+  "version": "1.2.1",
   "description": "MCP server for interacting with Azure DevOps",
   "license": "MIT",
   "author": "Microsoft Corporation",
-  "homepage": "https://github.com/microsoft/azure-devops-mcp",
-  "bugs": "https://github.com/microsoft/azure-devops-mcp/issues",
+  "homepage": "https://github.com/ms-jb/azure-devops-mcp",
+  "bugs": "https://github.com/ms-jb/azure-devops-mcp/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/azure-devops-mcp.git"
+    "url": "https://github.com/ms-jb/azure-devops-mcp.git"
   },
   "type": "module",
   "bin": {
